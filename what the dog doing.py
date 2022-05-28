@@ -1,0 +1,5 @@
+print("What the dog doin'?: THE GAME")
+print(" ")
+action = input("What the dog doin'? ")
+print(" ")
+print("Oh the dog is " + action)
